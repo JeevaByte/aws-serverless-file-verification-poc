@@ -30,11 +30,13 @@ Before contributing, ensure you have:
 1. Fork the repository on GitHub
 2. Clone your fork locally:
    ```bash
+   # Replace YOUR_USERNAME with your GitHub username
    git clone https://github.com/YOUR_USERNAME/aws-serverless-file-verification-poc.git
    cd aws-serverless-file-verification-poc
    ```
 3. Add upstream remote:
    ```bash
+   # Replace with the original repository URL if different
    git remote add upstream https://github.com/JeevaByte/aws-serverless-file-verification-poc.git
    ```
 

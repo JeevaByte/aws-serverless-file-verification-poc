@@ -363,6 +363,8 @@ Layer 5: Monitoring & Response
 
 ### Monthly Cost Estimate (10,000 users)
 
+**Note**: Pricing is approximate and based on AWS us-east-1 region pricing as of 2024. Always check current AWS pricing at https://aws.amazon.com/pricing/ as rates may change.
+
 ```
 Lambda (30K invocations):      $0.01
 DynamoDB (20K writes):         $0.01

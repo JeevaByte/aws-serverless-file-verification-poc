@@ -17,7 +17,8 @@ Before you begin, ensure you have:
 ### Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/JeevaByte/aws-serverless-file-verification-poc.git
+# Replace with your repository URL if you've forked this project
+git clone https://github.com/YOUR_USERNAME/aws-serverless-file-verification-poc.git
 cd aws-serverless-file-verification-poc
 ```
 
